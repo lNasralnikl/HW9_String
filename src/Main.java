@@ -9,7 +9,7 @@ public class Main {
         String lastName = "Сакаев";
         String fullName = lastName + " " + firstName + " " + middleName;
 
-        System.out.println("Ф.И.О. сотрудника — " + fullName);
+        System.out.println("Ф.И.О. сотрудника —  " + fullName);
 
         System.out.println();
         System.out.println("Задание 2");
